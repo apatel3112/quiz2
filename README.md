@@ -1,4 +1,3 @@
-# quiz2
 <html>
 <head><title>My web page </title></head>
 <body>
